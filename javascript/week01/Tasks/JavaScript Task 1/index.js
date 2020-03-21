@@ -16,6 +16,7 @@ console.log(`my name is ${name}, and my courses are ${courses}`)
 for (i = 1; i <= 200; i++) {
 
     if (i % 2 == 0) {
+
         console.log(i);
     }
 }
