@@ -11,9 +11,8 @@ let name = "Joshua Emmanuel-Bessong";
 
 let courses = ["Java", "C#", "Python", "Design", "HTML", "CSS", "Javascript", "UI / UX"];
 
-console.log(`my name is ${name} my courses 
-are ${courses}`)
-//the number of courses I'm doing is even. 
+console.log(`my name is ${name}, and my courses are ${courses}`)
+//the number of courses I'm doing is even. so i display all even including 200 
 for (i = 1; i <= 200; i++) {
 
     if (i % 2 == 0) {
