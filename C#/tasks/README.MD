@@ -1,3 +1,6 @@
+Division 
 ![](Division.png)
+Subtraction
 ![](Subtraction.png)
-![](Subtraction.png)
+Multiplication
+![](Multiplication.png)
